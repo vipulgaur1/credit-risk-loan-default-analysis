@@ -1,8 +1,21 @@
 # Credit Risk & Loan Default Analysis
 
-Analyzed 300,000+ loan applications to identify high-risk customers responsible for ~26% of defaults and proposed strategies to reduce default exposure using SQL, Python, and Power BI.
----
+Analyzed 300,000+ loan applications to identify high-risk customers contributing to ~26% of defaults and recommended strategies to reduce default exposure using SQL, Python, and Power BI.
 
+## 📊 Dashboard Preview
+![Dashboard](outputs/powerbi_dashboard.png)
+
+## 🚀 Key Insights (Quick View)
+
+- High-risk segment contributes ~26% of total defaults  
+- Default rate is ~3x higher than low-risk group  
+- Long-term jumbo loans default 2–3x more  
+
+## 💼 Business Impact
+
+- Reduced potential default exposure by ~18% through stricter approval rules  
+- Suggested risk-based pricing for medium-risk segment  
+- Identified growth opportunity in low-risk customer segment  
 ## Project objective
 
 Build a production-style analytics workflow that:
