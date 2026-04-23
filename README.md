@@ -1,6 +1,6 @@
 # Credit Risk & Loan Default Analysis
 
-End-to-end data analyst portfolio project built on the **Home Credit Default Risk** dataset from Kaggle. The goal is to identify the drivers of loan default, segment applicants by risk, and translate the findings into concrete credit-policy recommendations suitable for a consumer-lending business (e.g. American Express, Home Credit, HDFC).
+Analyzed 300,000+ loan applications to identify high-risk customers responsible for ~26% of defaults and proposed strategies to reduce default exposure using SQL, Python, and Power BI.
 ---
 
 ## Project objective
