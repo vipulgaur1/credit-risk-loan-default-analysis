@@ -151,5 +151,5 @@ credit-risk-loan-default-analysis/
 
 ## Author
 
-**Akshay Rawat** — aspiring Data Analyst focused on consumer finance & risk analytics.
-Reach me at **akshay.rawat618@gmail.com** · [LinkedIn](https://www.linkedin.com/in/)  · [GitHub](https://github.com/)
+** Vipul Gaur ** — aspiring Data Analyst focused on consumer finance & risk analytics.
+Reach me at **ivipulgaur1127@gmail.com** · [LinkedIn](https://www.linkedin.com/in/)  · [GitHub](https://github.com/)
